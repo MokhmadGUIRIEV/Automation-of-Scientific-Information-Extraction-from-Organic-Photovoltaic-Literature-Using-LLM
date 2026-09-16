@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local input/output data
+/test/
+scanned_pdf_extraction.xlsx
+erreur_*.txt
+
+# OS
+.DS_Store
