@@ -2,3 +2,5 @@ pandas
 openpyxl
 google-generativeai
 python-dotenv
+
+
